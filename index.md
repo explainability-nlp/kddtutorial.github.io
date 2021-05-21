@@ -1,4 +1,4 @@
-[Explainable AI Research Project](https://xainlp.github.io/)
+[Explainable AI Research Project Website](https://xainlp.github.io/)
 
 ### Presenters
 - [Marina Danilevsky](https://researcher.watson.ibm.com/researcher/view.php?person=us-mdanile) - IBM Research
