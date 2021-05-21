@@ -1,3 +1,5 @@
+[Explainable AI Research Project](https://xainlp.github.io/)
+
 ### Presenters
 - [Marina Danilevsky](https://researcher.watson.ibm.com/researcher/view.php?person=us-mdanile) - IBM Research
 - [Shipi Dhanorkar](https://www.shipidhanorkar.com/) - Pennsylvania State University
