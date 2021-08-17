@@ -3,6 +3,7 @@ This tutorial is part of the [Explainable AI Research Project](https://xainlp.gi
 
 ### Slides
 [Link to slides](https://www.slideshare.net/YunyaoLi/explainability-for-natural-language-processing-249992241)
+
 [video recording](https://youtu.be/PvKOSYGclPk)
 
 
