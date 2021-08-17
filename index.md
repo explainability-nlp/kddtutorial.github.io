@@ -28,7 +28,13 @@ This tutorial is part of the [Explainable AI Research Project](https://xainlp.gi
 
 If you find this tutorial useful, please cite our work:
 ```
-bibtex to be added
+@inproceedings{danilevsky2021explainability,
+  title={Explainability for Natural Language Processing},
+  author={Danilevsky, Marina and Dhanorkar, Shipi and Li, Yunyao and Popa, Lucian and Qian, Kun and Xu, Anbang},
+  booktitle={Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining},
+  pages={4033--4034},
+  year={2021}
+}
 ```
 
 
